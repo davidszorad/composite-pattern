@@ -1,0 +1,11 @@
+C:\david\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.0\CompositeDesignPattern.csprojResolveAssemblyReference.cache
+C:\david\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\david\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\david\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.0\CompositeDesignPattern.AssemblyInfo.cs
+C:\david\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.0\CompositeDesignPattern.deps.json
+C:\david\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.0\CompositeDesignPattern.runtimeconfig.json
+C:\david\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.0\CompositeDesignPattern.runtimeconfig.dev.json
+C:\david\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.0\CompositeDesignPattern.dll
+C:\david\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp2.0\CompositeDesignPattern.pdb
+C:\david\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.0\CompositeDesignPattern.dll
+C:\david\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp2.0\CompositeDesignPattern.pdb
